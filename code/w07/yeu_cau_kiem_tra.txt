@@ -1,0 +1,1 @@
+Tập dữ liệu chứa thông tin đang ký thuê bao internet tại các thời điểm trong giai đoạn [2000, 2020]. Hãy thiết lập mô hình dự đoán cho các năm 2021, 2022, 2023, 2024, 2025. Giải thích việc chọn mô hình thích hợp?
